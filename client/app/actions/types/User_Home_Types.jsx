@@ -1,0 +1,1 @@
+export const USER_HOME = 'user_home';
